@@ -33,7 +33,7 @@ The result is a secure, low-latency, and future-proof voice communication soluti
 
 ## 🏗️ System Architecture
 
-<img width="1119" height="1105" alt="image" src="https://github.com/user-attachments/assets/d8cdc15d-15b9-456d-bb8b-6fa29a98dbf6" />
+<img width="600" height="550" alt="image" src="https://github.com/user-attachments/assets/d8cdc15d-15b9-456d-bb8b-6fa29a98dbf6" />
 
 ## Workflow 
 
@@ -66,21 +66,24 @@ cd repository-name
 2️⃣ Install Dependencies
 
 For Node.js:
-
+```bash
 npm install
-
+```
 For Python:
-
+```bash
 pip install -r requirements.txt
+```
 3️⃣ Run the Application
 
 For Node.js:
-
+```bash
 npm start
-
+```
 For Python:
+```bash
+python run_alll.py
+```
 
-python app.py
 📊 Performance Metrics
 
 🔹 Average Latency: <150 ms
