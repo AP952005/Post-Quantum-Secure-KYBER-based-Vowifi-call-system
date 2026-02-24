@@ -1,0 +1,7 @@
+streamlit
+cryptography
+pydub
+pypqc
+flask
+requests
+pyaudio
